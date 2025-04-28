@@ -9,11 +9,6 @@ A React Native app built with Expo that allows users to get detailed information
 - View images, trailers, and other related media.
 - Easy navigation with a user-friendly interface.
 
-## Screenshots
-
-![Screenshot 1](./assets/screenshot1.png)
-![Screenshot 2](./assets/screenshot2.png)
-
 ## Requirements
 
 - [Node.js](https://nodejs.org) - Ensure Node.js is installed on your machine.
@@ -24,5 +19,5 @@ A React Native app built with Expo that allows users to get detailed information
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/movieapp.git
+git clone https://github.com/AliveJarvis/MovieApp-ReactNative.git
 cd movieapp
